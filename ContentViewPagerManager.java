@@ -1,4 +1,4 @@
-package com.evados.chinesecalendar.ui.view.contentviewpager;
+package ...
 
 import java.util.ArrayList;
 import java.util.concurrent.Callable;
