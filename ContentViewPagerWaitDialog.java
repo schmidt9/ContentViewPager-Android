@@ -1,6 +1,4 @@
-package com.evados.chinesecalendar.ui.view.contentviewpager;
-
-import com.evados.chinesecalendar.R;
+package ...
 
 import android.app.AlertDialog;
 import android.content.Context;
