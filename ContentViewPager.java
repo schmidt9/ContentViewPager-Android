@@ -1,4 +1,4 @@
-package com.evados.chinesecalendar.ui.view.contentviewpager;
+package ...
 
 import android.content.Context;
 import android.support.v4.view.ViewPager;
