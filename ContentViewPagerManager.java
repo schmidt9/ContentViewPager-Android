@@ -8,11 +8,7 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
-import com.evados.chinesecalendar.MeApplication;
-import com.evados.chinesecalendar.R;
-import com.evados.chinesecalendar.datetime.DateTime;
-import com.evados.chinesecalendar.ui.view.ContentLayout;
-import com.evados.chinesecalendar.ui.view.WrapperLayout;
+...
 
 import android.app.Activity;
 import android.os.Looper;
